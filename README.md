@@ -93,6 +93,3 @@ This demonstrates that even relatively simple text mining techniques can provide
 
 ---
 
-## License  
-This project is released under the **MIT License**.  
-
